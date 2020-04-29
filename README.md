@@ -3,8 +3,8 @@ Photocast used for most meteorological data.
 The site and applications are multilingual in 2 languages
 
 # Note
-* Platform: Android, iOS, Web
-* node.js, php, ionic 3, yii2
+* Platform: iOS
+* Objective-C
 
 ## Screen 1
 ![Image alt](https://github.com/appvilo/Photocast-iOS-App/blob/master/pictures/1.jpg)
